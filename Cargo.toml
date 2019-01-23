@@ -1,0 +1,7 @@
+[package]
+name = "strings-exercise"
+version = "0.1.0"
+authors = ["Dean Karn <dean.karn@gmail.com>"]
+edition = "2018"
+
+[dependencies]
